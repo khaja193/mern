@@ -1,2 +1,0 @@
-# mern
-Created with CodeSandbox
